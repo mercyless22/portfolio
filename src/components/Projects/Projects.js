@@ -98,7 +98,7 @@ UniDekho helps learners make informed decisions about their academic future."
 The website showcases their wide product range with detailed descriptions and high-quality images.
 Designed with a sleek black and gold theme, it reflects the brand’s premium identity.
 It serves as a professional platform for customer inquiries and product exploration."
-              demoLink="https://newhakimitinworks.com"
+              demoLink="https://www.newhakimitinworks.com/"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here
             />
           </Col>
