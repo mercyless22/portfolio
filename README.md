@@ -1,9 +1,5 @@
 Nice 🚀 your **personal portfolio website** deserves a really professional README since it represents *you* directly (and rtCamp will surely check it).
-Since it’s built using **MERN stack (MongoDB, Express, React, Node.js)**, I’ll highlight that along with deployment on **Vercel**.
 
-Here’s the complete README for your repo:
-
-```markdown
 # Taher M Travadi - Portfolio Website 💻✨  
 
 A modern portfolio website built with the **MERN stack** to showcase my skills, projects, achievements, and professional journey as a developer and entrepreneur.  
@@ -44,32 +40,17 @@ The site not only serves as a **resume** but also acts as a **project hub** with
 
 ## 📷 Screenshots  
 
-Create a `screenshots/` folder and add:  
-
-```
-
-screenshots/
-├── homepage.png
-├── about.png
-├── projects.png
-├── skills.png
-├── contact.png
-
-````
-
-Example in README:  
-
 - **Homepage**  
   ![Homepage Screenshot](screenshots/homepage.png)  
+
+- **About Section**  
+  ![Skills Screenshot](screenshots/about.png)  
 
 - **Projects Section**  
   ![Projects Screenshot](screenshots/projects.png)  
 
-- **Skills Section**  
-  ![Skills Screenshot](screenshots/skills.png)  
-
-- **Contact Section**  
-  ![Contact Screenshot](screenshots/contact.png)  
+- **Resume Section**  
+  ![Contact Screenshot](screenshots/resume.png)  
 
 ---
 
@@ -84,7 +65,7 @@ Run locally:
 git clone https://github.com/mercyless22/portfolio-mern.git
 
 # Navigate into folder
-cd portfolio-mern
+cd public
 
 # Install dependencies
 npm install
