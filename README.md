@@ -62,7 +62,7 @@ The website is deployed on **Vercel**.
 Run locally:  
 ```bash
 # Clone the repository
-git clone https://github.com/mercyless22/portfolio-mern.git
+git clone https://github.com/mercyless22/portfolio.git
 
 # Navigate into folder
 cd src
