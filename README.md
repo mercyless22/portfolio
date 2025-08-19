@@ -100,14 +100,3 @@ This project is licensed under the **MIT License** – free to use and modify wi
 ---
 
 ⭐️ Developed by [Taher M Travadi](https://github.com/mercyless22) with ❤️
-
-```
-
----
-
-For the **short description (GitHub tagline)**, you can use:  
-
-**“Personal portfolio website built with the MERN stack, showcasing skills, projects, and achievements.”**  
-
-Do you want me to also make a **section that lists your startups (Badri Quantech, Saarthon.ai, etc.)** in the portfolio README to highlight your entrepreneurial side?
-```
