@@ -1,5 +1,3 @@
-Nice 🚀 your **personal portfolio website** deserves a really professional README since it represents *you* directly (and rtCamp will surely check it).
-
 # Taher M Travadi - Portfolio Website 💻✨  
 
 A modern portfolio website built with the **MERN stack** to showcase my skills, projects, achievements, and professional journey as a developer and entrepreneur.  
