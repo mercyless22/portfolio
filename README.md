@@ -63,7 +63,7 @@ Run locally:
 git clone https://github.com/mercyless22/portfolio-mern.git
 
 # Navigate into folder
-cd public
+cd src
 
 # Install dependencies
 npm install
