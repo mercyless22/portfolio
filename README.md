@@ -38,11 +38,13 @@ The site not only serves as a **resume** but also acts as a **project hub** with
 
 ## 📷 Screenshots  
 
+  ![mockuup Screenshot](screenshots/mockup.png) 
+
 - **Homepage**  
   ![Homepage Screenshot](screenshots/homepage.png)  
 
 - **About Section**  
-  ![Skills Screenshot](screenshots/about.png)  
+  ![About Screenshot](screenshots/about.png)  
 
 - **Projects Section**  
   ![Projects Screenshot](screenshots/projects.png)  
